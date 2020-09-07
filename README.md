@@ -1,7 +1,5 @@
 
 ### Hi there, I'm [Kalana Hettiarachchi](https://www.linkedin.com/in/kalanahe/) 👋
-
-## I'm a Developer, and an Artist!
 I’m a computer science fresh graduate from University College Dublin. adaptable, responsible and a fast learner experienced with the development cycle for dynamic projects. I do freelance as a hobby, I have experience in numerous programming languages including PHP, Java, ReactJS, NodeJS, JavaScript, MySQL. _**Currently looking for a job as an**  **Associate software engineer**_
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
