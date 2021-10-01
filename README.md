@@ -1,6 +1,6 @@
 
 ### Hi there, I'm [Kalana Hettiarachchi](https://www.linkedin.com/in/kalanahe/) 👋
-I’m a computer science fresh graduate from University College Dublin. adaptable, responsible and a fast learner experienced with the development cycle for dynamic projects. I do freelance as a hobby, I have experience in numerous programming languages including PHP, Java, ReactJS, NodeJS, JavaScript, MySQL. _**Currently working as a**  **Trainee software engineer in ImmunifyMe HealthTec (Pvt) Ltd.**_
+I’m a computer science fresh graduate from University College Dublin. adaptable, responsible and a fast learner experienced with the development cycle for dynamic projects. I do freelance as a hobby, I have experience in numerous programming languages including PHP, Java, ReactJS, NodeJS, JavaScript, MySQL. _**Currently working as a**  **Associate software engineer in ImmunifyMe HealthTec (Pvt) Ltd.**_
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
